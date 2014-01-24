@@ -12,4 +12,5 @@ ECE281_Lab1
 ![](https://github.com/C16erikthompson/ECE281_Lab1/blob/master/Lab1Wave.png?raw=true)
 
 # Analysis
-- Word
+
+- The results of the waveform match the truth table.
