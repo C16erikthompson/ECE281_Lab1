@@ -11,6 +11,17 @@ ECE281_Lab1
 # Waveform (3-bit)
 ![](https://github.com/C16erikthompson/ECE281_Lab1/blob/master/Lab1Wave.png?raw=true)
 
+| A | B | C | WX | WY | WZ
+|---|:-:|:-:|:--:|:--:|--:
+| 0 | 0 | 0 | 0  | 0  | 0
+| 0 | 0 | 1 | 1  | 1  | 1
+| 0 | 1 | 0 | 1  | 1  | 0
+| 0 | 1 | 1 | 1  | 0  | 1
+| 1 | 0 | 0 | 1  | 0  | 0
+| 1 | 0 | 1 | 0  | 1  | 1
+| 1 | 1 | 0 | 0  | 1  | 0
+| 1 | 1 | 1 | 0  | 0  | 1
+
 # Analysis
 
 - The results of the waveform match the truth table.
