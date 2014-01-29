@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
+-- Company: USAFA
+-- Engineer: C3C Erik Thompson
 --
 -- Create Date:   16:36:33 01/22/2014
--- Design Name:   
+-- Design Name:   Test Bench
 -- Module Name:   C:/Users/C16Erik.Thompson/Documents/Class Things/ECE281/Comp/Lab1/Lab1_testbench_Thompson.vhd
 -- Project Name:  Lab1
 -- Target Device:  
