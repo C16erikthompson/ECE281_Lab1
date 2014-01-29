@@ -22,9 +22,10 @@ ECE281_Lab1
 | 1 | 1 | 0 | 0  | 1  | 0
 | 1 | 1 | 1 | 0  | 0  | 1
 
-# Analysis
+# Analysis And Comments
 
 - The results of the waveform match the truth table.
 - Demoed both the 3 and 8-bit
 - 8-bit performs the two's complement operation instead of hardcoding the results
+- The only debugging involved was checking the code for proper syntax
 
